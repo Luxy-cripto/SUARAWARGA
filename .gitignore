@@ -1,0 +1,16 @@
+# Backend
+Beckend/.env
+Beckend/vendor/
+
+# Frontend
+frontend/.env
+frontend/node_modules/
+frontend/dist/
+
+# Editor
+.vscode/
+.idea/
+
+# Operating System
+.DS_Store
+Thumbs.db
